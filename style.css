@@ -1,0 +1,59 @@
+body {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+.header, .content {
+    background-color: #1F2937;
+}
+a {
+    text-decoration: none;
+    color: #E5E7Eb ;
+    font-size: 18px;
+}
+.logo {
+    font-size: 24px;
+    columns: #F9FAF8;
+}
+.content h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #F9FAF8;
+}
+p {
+    font-size: 18px;
+    color: #E5E7Eb;
+}
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+.info h2 {
+    font-size: 36px;
+    font-weight: 700;
+}
+.info {
+    font-size: 18px;
+}
+.quote {
+    background-color: #E5E7Eb;
+}
+.quote h1 {
+    font-size: 36px;
+    font-weight: 100;
+    transform: skew(-10deg);                    
+    -webkit-transform: skew(-10deg);
+
+}
+.author {
+    font-size: 22px;
+    font-weight: 700;
+}
+.sign-up {
+    background-color: #3882F6;
+    color: #F9FAF8;
+}
+.text {
+    font-size: 22px;
+}
+.text2 {
+    font-size:  18px;
+}
