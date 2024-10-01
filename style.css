@@ -135,11 +135,11 @@ h2 {
     flex-direction: column;
     gap: 16px;
 }
-#graduation {
-    order: -1;
+#napoleon {
+    order: 0;
 }
-#dielit {
-    order: 1;
+#city {
+    order: 2;
 }
 .bottom {
     display: flex;
